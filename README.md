@@ -1,4 +1,4 @@
-# Flask Rest API For FraudWork, built for the AgentAI DevChallenge
+# Flask Rest API For FraudWatch, built for the AgentAI DevChallenge
 
 The Implementation for the WhatsApp Chatbot is located at [https://github.com/CijeTheCreator/fraudwatch_chatbot.git](https://github.com/CijeTheCreator/fraudwatch_chatbot.git)
 The App Downloads the call recordings into the S3 Details specified below
